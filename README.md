@@ -1,4 +1,4 @@
 # DataVisualization
 
 
-dataset.csv is related to file 01-Pandas-DataVisualization
+the 'dataset.csv' file is associated to 01-Pandas-DataVisualization
