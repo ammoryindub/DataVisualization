@@ -14,3 +14,5 @@ the 'dataset.csv' file is associated with 01-Pandas-DataVisualization
 - Box plot
 
 - KDE plot
+
+- Area plot
