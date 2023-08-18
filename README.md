@@ -9,4 +9,6 @@ the 'dataset.csv' file is associated with 01-Pandas-DataVisualization
 
 - Scatter plot
 
-- Histogram 
+- Histogram
+
+- Box plot
